@@ -1,6 +1,6 @@
 # 16 Channel Opto-Isolated Input Board for the IO Pi Plus 2.1
 
-This is a 16 channel opto-isolated input board suitable for use with the [IO Pi Plus version 2.1 from AB Electronics UK](https://www.abelectronics.co.uk/p/54/IO-Pi-Plus).  The board is designed to work with the FOD817C300 opto-isolator from Fairchild Semiconductor but it should work with any 4 pin transistor opto-isolator that uses the same pin configuration.
+This is a 16 channel opto-isolated input board suitable for use with the [IO Pi Plus version 2.1 from AB Electronics UK](https://www.abelectronics.co.uk/p/54/io-pi-plus).  The board is designed to work with the FOD817C300 opto-isolator from Fairchild Semiconductor but it should work with any 4 pin transistor opto-isolator that uses the same pin configuration.
 
 ![3D Render](3d-view.png)
 
@@ -14,7 +14,7 @@ To build the relay board you will need the following parts:
   
 ## IDC Connector  
 
-The 20 pin IDC connector uses the same pin configuration as the [IO Pi Plus 2.1](https://www.abelectronics.co.uk/p/54/IO-Pi-Plus) so you can connect the two together using two 20 pin IDC connectors and a ribbon cable.  The input numbers match the pin numbering on the IO Pi Plus bus making it easy to read the inputs using our IO Pi software libraries.
+The 20 pin IDC connector uses the same pin configuration as the [IO Pi Plus 2.1](https://www.abelectronics.co.uk/p/54/io-pi-plus) so you can connect the two together using two 20 pin IDC connectors and a ribbon cable.  The input numbers match the pin numbering on the IO Pi Plus bus making it easy to read the inputs using our IO Pi software libraries.
 
 ## Input Resistors  
 
