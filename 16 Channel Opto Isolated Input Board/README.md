@@ -2,6 +2,8 @@
 
 This is a 16 channel opto-isolated input board suitable for use with the [IO Pi Plus version 2.1 from AB Electronics UK](https://www.abelectronics.co.uk/p/54/IO-Pi-Plus).  The board is designed to work with the FOD817C300 opto-isolator from Fairchild Semiconductor but it should work with any 4 pin transistor opto-isolator that uses the same pin configuration.
 
+![3D Render](3d-view.png)
+
 To build the relay board you will need the following parts:
 
 - VO1 to VO16: 16 x FOD817C300 opto-isolator
